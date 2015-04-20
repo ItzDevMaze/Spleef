@@ -1,0 +1,4 @@
+name: Spleef
+main: Tanner\Spleef\Main
+version: 1.0.0
+api: [1.10.0]
